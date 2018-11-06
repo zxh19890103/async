@@ -1,0 +1,26 @@
+{
+  "name": "sh-async",
+  "version": "1.0.0",
+  "description": "a function to make a generator more like a async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxh19890103/async.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "co",
+    "generator",
+    "iterator"
+  ],
+  "author": "Singhi John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxh19890103/async/issues"
+  },
+  "homepage": "https://github.com/zxh19890103/async#readme"
+}
