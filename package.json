@@ -1,5 +1,5 @@
 {
-  "name": "sh-async",
+  "name": "async-style",
   "version": "1.0.0",
   "description": "a function to make a generator more like a async/await",
   "main": "index.js",
